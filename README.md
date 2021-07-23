@@ -21,7 +21,7 @@ Currently participating in a *Microsoft Leap Internal Program* to enhance my cod
 #
 
 ### Contact
-- linkedin.com/in/steven-mather-1a973a101
+- https://www.linkedin.com/in/steven-mather-1a973a101
 - StevenRMather@gmail.com
 <!--Add good bye or pudgie Image-->
 
