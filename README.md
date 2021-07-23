@@ -10,13 +10,12 @@
 
 
 ## Professional
----
-<img src="images/Microsoft.jpg" alt="Microsoft" Height="75"/>
+<img src="Images/Microsoft.jpg" alt="Microsoft" Height="75"/>
 
 ### Intern at *Microsoft Leap*
 Currently participating in a *Microsoft Leap Internal Program* to enhance my coding skills and hopefully lead to a position in software engineering. 
 
-<img src="images/EWU.png" alt="EWU eagle" Height="75"/>
+<img src="Images/EWU.png" alt="EWU eagle" Height="75"/>
 
 **Eastern Washington Unversity**, Bachelor of Science in Computer Science-2016
 #
