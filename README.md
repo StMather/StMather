@@ -2,7 +2,11 @@
 --add stuff
 
 # I Enjoy
---Add stuff
+- Being a part of solutions
+- Finding creative resolutions to problems
+- Taking time to think before I put in my 2 cents
+- Spending time with my family, motorcycles, hiking, target shooting, video games and driving my wife slowly over the edge.
+
 
 # Professional
 --EWU stuff
