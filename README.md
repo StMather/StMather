@@ -9,8 +9,16 @@
 - Spending time with my family, riding motorcycles, hiking, target shooting, video games and driving my wife **slowly** over the edge.
 
 
-## Professional:
---EWU stuff
+## Professional
+---
+<!--Add Microsoft Logo-->
+### Intern at *Microsoft Leap*
+Currently participating in a Microsoft Leap Internal Program to enhance my coding skills and hopefully lead to a position in softwear engineering. 
+
+<!--Add EWU Logo-->
+**Eastern Washington Unversity**, Bachelor of Science in Computer Science-2016
+#
+
 --Linkedin Profile
 
 <!--
