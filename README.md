@@ -1,6 +1,6 @@
 # Welcome
 ## On GitHub I am...
-...participating in a *Microsoft Leap Internal Program* and brushing up on 5+ years of missed codeing. So far GitHub is how I rember it but HTML and Markdown are new to me. I cannot wait untill we get in to C# and I can see if I it i can remember any of it!
+...participating in a *Microsoft Leap Internal Program* and brushing up on 5+ years of missed codeing. So far GitHub is how I rember it but HTML and Markdown are new to me. I cannot wait until we get in to C# and I can see if I it I remember any of it!
 
 ## I Enjoy:
 - Being a part of solutions
@@ -13,7 +13,7 @@
 ---
 <!--Add Microsoft Logo-->
 ### Intern at *Microsoft Leap*
-Currently participating in a Microsoft Leap Internal Program to enhance my coding skills and hopefully lead to a position in softwear engineering. 
+Currently participating in a *Microsoft Leap Internal Program* to enhance my coding skills and hopefully lead to a position in softwear engineering. 
 
 <!--Add EWU Logo-->
 **Eastern Washington Unversity**, Bachelor of Science in Computer Science-2016
