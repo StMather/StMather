@@ -6,16 +6,18 @@
 - Being a part of solutions
 - Finding creative resolutions to problems
 - Taking time to think before I put in my 2 cents
-- Spending time with my family, riding motorcycles, hiking, target shooting, video games and driving my wife **slowly** over the edge.
+- Spending time with my family, riding motorcycles, working on classic cars, hiking, target shooting, video games and driving my wife **slowly** over the edge.
 
 
 ## Professional
 ---
-<!--Add Microsoft Logo-->
-### Intern at *Microsoft Leap*
-Currently participating in a *Microsoft Leap Internal Program* to enhance my coding skills and hopefully lead to a position in softwear engineering. 
+<img src="images/Microsoft.jpg" alt="Microsoft" Height="75"/>
 
-<!--Add EWU Logo-->
+### Intern at *Microsoft Leap*
+Currently participating in a *Microsoft Leap Internal Program* to enhance my coding skills and hopefully lead to a position in software engineering. 
+
+<img src="images/EWU.png" alt="EWU eagle" Height="75"/>
+
 **Eastern Washington Unversity**, Bachelor of Science in Computer Science-2016
 #
 
@@ -38,13 +40,13 @@ Project objectives
 
 Project requirement
 {}
--Make a minimum of four commits (Recommend making at least one commit for each profile section).
--Use four heading tags (Hint: # Creates an H1 heading).
--Have bold text
--Have italic text
--Make a list
--Add a link to your LinkedIn profile
--Add an image (The image may be of anything--your cat, an icon, etc.).
+-/Make a minimum of four commits (Recommend making at least one commit for each profile section).
+-/Use four heading tags (Hint: # Creates an H1 heading).
+-/Have bold text
+-/Have italic text
+-/Make a list
+-/Add a link to your LinkedIn profile
+-/Add an image (The image may be of anything--your cat, an icon, etc.).
 }
 -Project outline
 -Your profile page should have these sections.
