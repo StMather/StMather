@@ -1,14 +1,15 @@
-# I'm Currently Learning
+# Welcome
+## I'm Currently Learning...
 --add stuff
 
-# I Enjoy
+## I Enjoy:
 - Being a part of solutions
 - Finding creative resolutions to problems
 - Taking time to think before I put in my 2 cents
 - Spending time with my family, motorcycles, hiking, target shooting, video games and driving my wife slowly over the edge.
 
 
-# Professional
+## Professional:
 --EWU stuff
 --Linkedin Profile
 
