@@ -19,7 +19,11 @@ Currently participating in a Microsoft Leap Internal Program to enhance my codin
 **Eastern Washington Unversity**, Bachelor of Science in Computer Science-2016
 #
 
---Linkedin Profile
+### Contact
+- linkedin.com/in/steven-mather-1a973a101
+- StevenRMather@gmail.com
+<!--Add good bye or pudgie Image-->
+
 
 <!--
 **StMather/StMather** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
