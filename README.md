@@ -1,12 +1,12 @@
 # Welcome
-## I'm Currently Learning...
---add stuff
+## On GitHub I am...
+...participating in a *Microsoft Leap Internal Program* and brushing up on 5+ years of missed codeing. So far GitHub is how I rember it but HTML and Markdown are new to me. I cannot wait untill we get in to C# and I can see if I it i can remember any of it!
 
 ## I Enjoy:
 - Being a part of solutions
 - Finding creative resolutions to problems
 - Taking time to think before I put in my 2 cents
-- Spending time with my family, motorcycles, hiking, target shooting, video games and driving my wife slowly over the edge.
+- Spending time with my family, riding motorcycles, hiking, target shooting, video games and driving my wife **slowly** over the edge.
 
 
 ## Professional:
