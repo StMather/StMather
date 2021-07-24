@@ -5,7 +5,7 @@ Pudgie image
 -->
 # Welcome
 ## On GitHub I am...
-...participating in a *Microsoft Leap Internal Program* and brushing up on 5+ years of missed codeing. So far GitHub is how I rember it but HTML and Markdown are new to me. I cannot wait until we get in to C# and I can see if I it I remember any of it!
+...participating in a *Microsoft Leap Internal Program* and brushing up on 5+ years of missed codeing. So far GitHub is how I rember it but HTML and Markdown are new to me. I cannot wait until we get in to C# and I can see if I remember any of it!
 
 ## I Enjoy:
 - Being a part of solutions
