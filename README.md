@@ -28,6 +28,8 @@ Currently participating in a *Microsoft Leap Internal Program* to enhance my cod
 ### Contact
 - https://www.linkedin.com/in/steven-mather-1a973a101
 - StevenRMather@gmail.com
+
+![PowerShell flow diagram](../assets/DeployFlow.png?raw=true)
 <!--Add good bye or pudgie Image-->
 
 
